@@ -40,3 +40,12 @@ Q2- Results: Using bulleted lists and images to support your answers, address th
     after cleanining & removing none features neither targets, & splitting used the deep neural net & trying diffrent number of layers, activations, optimizers & epochs
 
 3- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
+    unfortunatly diffrences between all 3 tries was not major unless maybe adding 5 layers & 100's of neurels but that will kill my processor that's why didn't go that far, just did the 2 to 3 layers & between 10-30 neurels on each layers but oticed sigmoid activation is the best for this module
+
+![1st_try1](https://github.com/hanydief/deep_learning-Charity_Challenge/blob/main/Images/1st_try_code.png)
+![1st_try2](https://github.com/hanydief/deep_learning-Charity_Challenge/blob/main/Images/1st_try_results.png)
+![2nd_try1](https://github.com/hanydief/deep_learning-Charity_Challenge/blob/main/Images/2nd_try_code.png)
+![2nd_try2](https://github.com/hanydief/deep_learning-Charity_Challenge/blob/main/Images/2nd_try_results.png)
+![3rd_try1](https://github.com/hanydief/deep_learning-Charity_Challenge/blob/main/Images/3rd_try_code.png)
+![3rd_try2](https://github.com/hanydief/deep_learning-Charity_Challenge/blob/main/Images/3rd_try_results.png)
